@@ -1,2 +1,2 @@
 # glitch
-Template for Nina Belojevic, Glitch Taxonomy Kit
+Worksheet Template for Nina Belojevic's "Glitch Taxonomy Kit"
